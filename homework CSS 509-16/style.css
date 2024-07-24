@@ -1,0 +1,146 @@
+body{
+    text-align: center;
+    background-size:cover;
+    background:url(https://i.pinimg.com/564x/2d/67/f9/2d67f9834649b584682ab58606f5a27e.jpg);
+}
+
+.zzz{
+    font-size: 300%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 1200px;
+}
+
+.aaa{
+    font-size: 150%;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    width: 150px;
+}
+
+.bbb{
+    font-size: 150%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 500px;
+}
+
+.ccc{
+    font-size: 150%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 150px;
+}
+.ddd{
+    font-size: 150%;
+    font-style: italic;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 150px;
+}
+
+.eee{
+    font-size: 150%;
+    background-color:rgb(255, 255, 255);
+    margin: auto;
+    width: 150px;
+}
+.fff{
+    font-size: 300%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 550px;
+}
+
+.ggg{
+    font-size: 300%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 550px;
+}
+
+.hhh{
+    font-size: 150%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 350px;
+}
+
+
+
+.h1{
+    font-style: italic;
+    color: darkslateblue;
+    font-size: 350%;
+    text-align: center;
+    text-decoration:underline;
+}
+
+.img{
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.h2{
+    
+    font-style: italic;
+     color: rgb(78, 128, 235);
+     font-size: 200%;
+     text-align: center;
+     text-decoration:underline;
+}
+
+.b{
+    font-style: italic;
+    color: darkslateblue;
+    font-size: 150%;
+    text-align: center;
+   
+}
+
+.w31{
+   width: 15%;
+}
+
+.w32{
+    width: 15%;
+}
+
+.facebook{
+    width: 20%;
+}
+
+.github{
+    width: 15%;
+}
+
+.youtube{
+    width: 15%;
+}
+
+.abc{
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    text-align: center;
+    
+}
+
+.ul{
+    display: inline-block;
+   text-align: left;
+    
+}
+
+
+.th{
+    background-color: rgb(182, 197, 240);
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
